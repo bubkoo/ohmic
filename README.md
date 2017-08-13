@@ -1,1 +1,1 @@
-# thet
+# Ohmic
